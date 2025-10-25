@@ -11,43 +11,6 @@
 
 ---
 
-## 🔧 Tech Stack & Skills
-
-<div align="center">
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **Microservices Platform** | Scalable microservices architecture with service mesh | Spring Boot, K8s, Redis |
-| 🔐 **Auth System** | Enterprise authentication & authorization | Keycloak, PostgreSQL, Docker |
-| 📱 **Full-Stack App** | Modern web application with real-time features | React, Supabase, Spring Boot |
-
-</div>
-
----
-
 ## 🌱 About Me
 
 ```java
@@ -92,7 +55,7 @@ public class ThienCode {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiencode@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiencode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thi%E1%BB%87n-tr%E1%BA%A7n-%C4%91%E1%BB%A9c-635084210/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiencode)
 
 </div>
@@ -107,8 +70,7 @@ public class ThienCode {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/thiencode/count.svg)
-
+![Profile Views](https://komarev.com/ghpvc/?username=tuanpmt&style=flat)
 </div>
 
 ---
